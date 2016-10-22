@@ -1,4 +1,4 @@
-##21 Oct, 2016
+###21 Oct, 2016
 --------------
 
 Discussed [node2vec](https://arxiv.org/abs/1607.00653)
@@ -9,6 +9,6 @@ And  as Richard Feynman:
 > What I cannot create, I do not understand.
 
 Future To-do:
--[] Read word2vec paper
--[] cs231n lecture 2
--[] Neural Turing Machine paper
+-[ ] Read word2vec paper
+-[ ] cs231n lecture 2
+-[ ] Neural Turing Machine paper
