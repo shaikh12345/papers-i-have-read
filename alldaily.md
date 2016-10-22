@@ -9,6 +9,6 @@ And  as Richard Feynman:
 > What I cannot create, I do not understand.
 
 Future To-do:
--[ ] Read word2vec paper
--[ ] cs231n lecture 2
--[ ] Neural Turing Machine paper
+- [ ] Read word2vec paper
+- [ ] cs231n lecture 2
+- [ ] Neural Turing Machine paper
