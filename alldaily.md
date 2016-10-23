@@ -15,7 +15,7 @@ Future To-do:
 
 
 
-###21 Oct, 2016 -- Methi Dal and Methi egg Saturday!
+###22 Oct, 2016 -- Methi Dal and Methi egg Saturday!
 ---------------
 I was reading the [Neural Turing Machine](https://arxiv.org/pdf/1410.5401v2.pdf) paper, halfway through.
 Ongoing [Linear Algebra](http://cs229.stanford.edu/section/cs229-linalg.pdf) review plus completed Farrens lecture one.
