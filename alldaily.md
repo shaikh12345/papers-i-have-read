@@ -1,5 +1,5 @@
 
-###27 Oct, 2016
+### 27 Oct, 2016
 ---------------
 Bhiksha's [introductory lecture](http://deeplearning.cs.cmu.edu/slides.2016/Intro.pdf) on deep learning was a nice read. 
 Maybe I should start learning Chinese and coco shoud start looking for another university. ;)
@@ -10,7 +10,7 @@ Tomorrow:
 - [ ] Word2Vec lecture 2 by Ali Ghodsi
 - [ ] Learning Deep Architectures for AI, Yoshua Bengio
 
-###26 Oct, 2016
+### 26 Oct, 2016
 ---------------
 watched [Word2Vec lecture 1](https://www.youtube.com/watch?v=TsEGsdVJjuA&t=2s) by Ali Ghodsi. 
 Completed reading through [gitless](http://people.csail.mit.edu/sperezde/oopsla16.pdf) paper and Reviewed C3D(https://arxiv.org/pdf/1412.0767v4.pdf) in lab, in the couch! :)
@@ -18,11 +18,11 @@ Completed reading through [gitless](http://people.csail.mit.edu/sperezde/oopsla1
 >Shwey and polaroid camera! I said to you if you wanna take photo, let the light fall on object and you dint listen, I am kinda sad.
 
 
-###25/24 Oct, 2016 -- Tiring swimming tuesday!
+### 25/24 Oct, 2016 -- Tiring swimming tuesday!
 ---------------
 while monday was spent for comp arch quiz and review of [Instance-sensitive Fully Convolutional Networks](https://arxiv.org/pdf/1603.08678v1.pdf) which I DID NOT understand.
 
-###23 Oct, 2016
+### 23 Oct, 2016
 ---------------
 DOne with Farrens lectures, but boy Appendix C was so long that I covered only 30/90 pages. :D
 Watched [cs231n lecture 2](https://www.youtube.com/watch?v=t2IwlUtbCFE). Dint quite understand the paper [Instance-sensitive Fully Convolutional Networks](https://arxiv.org/abs/1603.08678) 
@@ -47,7 +47,7 @@ Tomorrow:
 
 
 
-###21 Oct, 2016
+### 21 Oct, 2016
 ---------------
 Discussed [node2vec](https://arxiv.org/abs/1607.00653) and watched [cs231n lecture 1] (https://www.youtube.com/watch?v=yp9rwI_LZX8&list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
 
